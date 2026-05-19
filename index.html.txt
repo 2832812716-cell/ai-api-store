@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><title>Cheap AI API</title></head>
+<body>
+<h1>OpenAI-compatible API – $5 for 500K tokens</h1>
+<p>Base URL: https://你的workers网址.dev</p>
+<p>Click below to buy:</p>
+<a href="checkout.html"><button>Buy Now – $5</button></a>
+</body>
+</html>
