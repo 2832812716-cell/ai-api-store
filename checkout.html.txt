@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head><title>Checkout</title></head>
-<body>
-<h2>Complete your purchase</h2>
-<!-- 这个链接将在第4步获得 -->
-<a href="你的Stripe支付链接">Pay with Credit Card</a>
-</body>
-</html>
